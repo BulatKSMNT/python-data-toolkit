@@ -1,0 +1,9 @@
+beautifulsoup4==4.13.4
+colorama==0.4.6
+iniconfig==2.1.0
+packaging==25.0
+pluggy==1.6.0
+pytest==8.3.5
+soupsieve==2.7
+termgraph==0.5.3
+typing_extensions==4.14.0
